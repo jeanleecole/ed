@@ -47,7 +47,12 @@ Ratkowsky puffed at his cigar and narrowed his eyes. "What is the plot?" he aske
 It is probably something in your liver," said Ratkowsky. Then, leaning forward with the air of a man who has made a sudden determination,. he said:
 	"Listen to me, Gimplovitz. Do not move. And, above all, do not look at Miska. I don't want her to know what we are talking about. I am in love with your daughter. Do not stare at me so. She will suspect something. I want to marry her. All I need is your consent. She is young. I can wait a year. I am in no hurry. I will give her a beautiful home. And you and I will write plays together. You have wonderful ideas for comic plays. But I have the experience. Also the theater. And I will put all your plays on the 
 
+<p align="center">
+
 [661] 
+
+</p>
+<p align="left">
 
 stage. Do not say anything to Miska for a while. Then gradually prepare her mind. You will know.how to do it. You are a smart man. You know what I mean. I am going home. Good night!"
 
@@ -70,7 +75,12 @@ I explained to Gimplovitz that funny ideas were worth their weight in radium and
 
 That, I think, is about the only point upon which I ever agreed with Gimplovitz. It was interesting, nevertheless, to watch his countenance as he strove for this idea that would not come, smiling, every now and then, as a humorous thought flitted through his head, and then frowning after he had weighed it and found it wanting. I saw him nearly every night for two weeks, and during all that time the idea would not come. Never was there such a stubborn idea! Gimplovitz concentrated his whole brain upon the subject, his forehead was constantly wrinkled with lines of thought, his lips were tightly pressed together with the determination of a man who means to do or die, and all his intellect strove with might and main to bring forth that idea. Yet it came not, and Gimplovitz
 
-[662]
+<p align="center">
+
+[662] 
+
+</p>
+<p align="left">
 
 gradually became very irritable and peevish. When Emil, the head waiter, spoke to him of the details of the café management Gimplovitz would reply:
 
@@ -120,8 +130,12 @@ To Ratkowsky, who arrived a few minutes later, he unfolded the outline of this n
 
 The next day Miska asked her father if she could go out alone for a little while. " I
 
+<p align="center">
 
-[664]	
+[664] 
+
+</p>
+<p align="left">
 
 think a little air will do me good," she said. 
 
@@ -150,8 +164,12 @@ The torrent lasted quite a long while, and the alderman could not help admiring 
 and down the street, and, failing to distinguish them, cried aloud, so that all the neighborhood could hear,
        "Loafer!"
 
-*	*	*
+<p align="center">
 
+*    *    * 
+
+</p>
+<p align="left">
 
 Since Sammy Levy has taken charge of the café, Gimplovitz spends most of his time at home writing comedies, and I do not see him as of ten as formerly. The last time I met him I asked him if he had worked out the solution of his problem.
 
