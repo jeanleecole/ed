@@ -9,7 +9,7 @@ _Illustrated by William Oberhardt_
 Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!” <lb/>
 Cohen:	"Ha! Ha! Ha!”<lb/>
 
-&mdash _The Greenhorn_
+&mdash;_The Greenhorn_
 
 
 You probably never heard of "The Greenhorn." It is a play-comedy in five or six acts (there may be seven or eight), written by my friend Gimplovitz. The quotation selected above conveys a fairly adequate idea of the humor that ripples through it. Whenever one of Gimplovitz's characters says anything that Gimplovitz thinks is humorous another character immediately laughs—"Ha ! Ha! Ha!" "The Greenhorn" has never been produced upon any stage, nor has it ever been published in any form. In fact, I am quite sure that this is the first and only mention it has ever received in public. And even in private but few eyes have ever deciphered the· Yiddish words, and few ears have ever heard Gimplovitz, with tears of laughter running down his plump cheeks, read the lines aloud. Miska, his daughter; Emil, the head waiter; Ratkowsky, who owned the little theater in Delancey Street; and I—these probably are all who ever read "The Greenhorn" or heard it read. Oh, yes, there was Sammy Levy, to be sure. He almost knew it by heart.
