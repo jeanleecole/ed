@@ -4,9 +4,7 @@ title: Under His Nose
 author: Bruno Lessing
 source: Cosmopolitan Magazine, May 1905
 ---
-Under His Nose
-By Bruno Lessing
-Illustrated by William Oberhardt
+_Illustrated by William Oberhardt_
 
 Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!” 
 
