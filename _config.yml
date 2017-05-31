@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
+title:               Ghetto Fiction, 1880-1920 
+tagline:             'Using Ed, a Jekyll theme to create minimal editions'
+description:         'Text description here'
+url:                 'http://jeanleecole.github.io/ed'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jean Lee Cole
+  url:               https://twitter.com/profjlc
+  email:             jlcole@loyola.edu
 
 # Permalinks
 
