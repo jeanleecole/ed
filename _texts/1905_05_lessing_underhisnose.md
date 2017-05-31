@@ -6,8 +6,9 @@ source: Cosmopolitan Magazine, May 1905
 ---
 _Illustrated by William Oberhardt_
 
-Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!” <lb/>
-Cohen:	"Ha! Ha! Ha!”<lb/>
+Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!”
+
+Cohen:	"Ha! Ha! Ha!”
 
 &mdash;_The Greenhorn_
 
