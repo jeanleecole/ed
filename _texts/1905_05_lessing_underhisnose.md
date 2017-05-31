@@ -24,7 +24,7 @@ Nor was "The Greenhorn" the only comedy that Gimplovitz had written. There were 
 [660] 
 
 </p>
-<p align="left">
+<p align="left"></p>
 
 from Odessa," "The Synagogue Scapegoat," and "His Third Wife." The names of the others have slipped from my memory, but I know that they were all comedies, varying from five to eight acts, profusely interspersed with outbursts of laughter from the characters and nearly every one of them endorsed with the signature of Ratkowsky under the statement that he regretted that he could not accept it. I asked Gimplovitz why he never wrote less than five acts. He smiled beamingly.
 
@@ -52,7 +52,7 @@ It is probably something in your liver," said Ratkowsky. Then, leaning forward w
 [661] 
 
 </p>
-<p align="left">
+<p align="left"></p>
 
 stage. Do not say anything to Miska for a while. Then gradually prepare her mind. You will know.how to do it. You are a smart man. You know what I mean. I am going home. Good night!"
 
@@ -80,7 +80,7 @@ That, I think, is about the only point upon which I ever agreed with Gimplovitz.
 [662] 
 
 </p>
-<p align="left">
+<p align="left"></p>
 
 gradually became very irritable and peevish. When Emil, the head waiter, spoke to him of the details of the café management Gimplovitz would reply:
 
@@ -135,7 +135,7 @@ The next day Miska asked her father if she could go out alone for a little while
 [664] 
 
 </p>
-<p align="left">
+<p align="left"></p>
 
 think a little air will do me good," she said. 
 
@@ -169,7 +169,7 @@ and down the street, and, failing to distinguish them, cried aloud, so that all 
 *    *    * 
 
 </p>
-<p align="left">
+<p align="left"></p>
 
 Since Sammy Levy has taken charge of the café, Gimplovitz spends most of his time at home writing comedies, and I do not see him as of ten as formerly. The last time I met him I asked him if he had worked out the solution of his problem.
 
