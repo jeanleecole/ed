@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ghetto Fiction, 1880-1920 
+title:               Fiction by Bruno Lessing 
 tagline:             'Using Ed, a Jekyll theme to create minimal editions'
-description:         'Text description here'
+description:         'Courtesy Alex Gil, Digital Scholarship Coordinator, Humanities and History Division, Columbia University Libraries, and the Minimal Computing Intiative'
 url:                 'http://jeanleecole.github.io/ed'
 baseurl:             '/ed'
 
