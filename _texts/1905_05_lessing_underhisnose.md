@@ -5,6 +5,7 @@ author: Bruno Lessing
 source: Cosmopolitan Magazine, May 1905
 ---
 _Illustrated by William Oberhardt_
+
 Published in _Cosmopolitan Magazine_, May 1909; source: American Periodical Series
 
 Lezinsky: "What comes easy, goes easy! I make money: I spend it. I fall in love: I fall out again!”
